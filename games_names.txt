@@ -1,0 +1,19 @@
+football
+basketball
+hockey
+kabaddi
+volleyball
+cricket
+table tennis
+caramboard
+chess
+cards
+handball
+badminton
+karate
+kungfu
+futsal
+baseball
+long tennis
+
+
